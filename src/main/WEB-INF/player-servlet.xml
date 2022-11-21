@@ -1,0 +1,5 @@
+<int-param>
+    <param-name>contextConfigLocation</param-name>
+    <param-value>/WEB-INF/player-servlet.xml</param-value>
+</int-param>
+<load-on-startup>1</load-on-startup>
